@@ -1,1 +1,0 @@
-Move all files to desktop and then do streamlit run to open the UI
